@@ -5,7 +5,7 @@ date: 2024-07-02
 categories: projects
 ---
 
-<img src="/assets/img/dashboard-hero.jpg" alt="Dashboard Hero" style="width: 100%; border-radius: 12px; margin-bottom: 30px;" />
+<img src="/assets/img/dashboard.jpg" alt="Dashboard" style="width: 100%; border-radius: 12px; margin-bottom: 30px;" />
 
 ## 🚗 Project Overview
 
