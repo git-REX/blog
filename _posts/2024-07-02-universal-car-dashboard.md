@@ -15,17 +15,16 @@ The Universal Car Dashboard System is a multifunctional interface that unifies e
 
 ## 🔧 Tools & Technologies
 
-- Arduino Uno
-- Raspberry Pi 4
-- CAN bus integration
-- Python & MATLAB for data processing
+- Raspberry Pi 5
+- Camera Sensors for replacing vehicle side mirrors
+- C++ & Visual Studios for data processing
 - Custom UI with touchscreen support
 
 ---
 
 ## 🧠 Problem It Solves
 
-Drivers often need to monitor various systems across multiple displays or analog dials. This dashboard centralizes critical information (fuel, battery, temperature, etc.) into a **single touch-enabled interface**.
+Drivers often need to monitor various systems across multiple displays or analog dials. This dashboard centralizes critical information (fuel, battery, speed, temperature, etc.) into a user friendly touch-enabled interface**.
 
 ---
 
@@ -33,8 +32,7 @@ Drivers often need to monitor various systems across multiple displays or analog
 
 - Real-time vehicle data visualization  
 - CAN bus decoding and signal mapping  
-- Modular widget layout for different car types  
-- Bluetooth & Wi-Fi connectivity  
+- Modular and customisable widget layout for different car types 
 - Fail-safe backup system
 
 ---
@@ -49,7 +47,7 @@ Drivers often need to monitor various systems across multiple displays or analog
 
 ## 📍 My Role
 
-I led the embedded development and system integration phase, ensuring the compatibility of real-time data streams between the Raspberry Pi and vehicle systems.
+I was in-charge of the logic development and system integration phase, ensuring the compatibility of real-time data streams between the Raspberry Pi and vehicle systems.
 
 ---
 
