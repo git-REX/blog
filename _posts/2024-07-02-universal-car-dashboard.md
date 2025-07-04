@@ -3,7 +3,10 @@ layout: post
 title: "Universal Car Dashboard System"
 date: 2024-07-02
 categories: projects
+tags: [sample]
+image: dashboard.jpg
 ---
+
 
 <img src="/assets/img/dashboard.jpg" alt="Dashboard" style="width: 100%; border-radius: 12px; margin-bottom: 30px;" />
 
